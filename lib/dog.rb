@@ -3,5 +3,5 @@ class Dog
     @name = "Fido"
     @breed = "Pug"
   end
- else 
+ else "Mutt"
 end
