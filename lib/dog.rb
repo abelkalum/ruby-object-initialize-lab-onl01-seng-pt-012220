@@ -3,6 +3,6 @@ class Dog
     @name = "Fido"
     @breed = "Pug"
   end
-else
+ else @breed = "Mutt"
   puts 
 end
